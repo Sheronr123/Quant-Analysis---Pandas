@@ -1,4 +1,5 @@
-📊 Financial Dataset Analysis with Python 🐼
+
+# 📊 Financial Dataset Analysis with Python 🐼
 
 
 This repository contains my capstone project for analyzing financial datasets using Python. The project incorporates key financial concepts such as alpha & beta analysis, portfolio construction, and Sharpe ratio calculation. The analysis and visualizations were implemented using Pandas and Matplotlib.
@@ -7,7 +8,7 @@ This repository contains my capstone project for analyzing financial datasets us
 The project focuses on building an equal-weight portfolio of assets and evaluating its performance through statistical metrics like alpha and beta. The steps include:
 
 Importing and cleaning financial data.
---Performing time-series analysis with Pandas.
+Performing time-series analysis with Pandas.
 Visualizing trends using Matplotlib.
 Computing portfolio returns and risk metrics.
 Evaluating performance using the Sharpe ratio.

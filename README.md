@@ -6,13 +6,14 @@
 ### -The analysis and visualizations were implemented using Pandas and Matplotlib.
 
 ## 🔍 Project Overview
-The project focuses on building an equal-weight portfolio of assets and evaluating its performance through statistical metrics like alpha and beta. The steps include:
+The project focuses on building an equal-weight portfolio of assets and evaluating its performance through statistical metrics like alpha and beta. 
 
-Importing and cleaning financial data.
-Performing time-series analysis with Pandas.
-Visualizing trends using Matplotlib.
-Computing portfolio returns and risk metrics.
-Evaluating performance using the Sharpe ratio.
+The steps include:
+- Importing and cleaning financial data.
+- Performing time-series analysis with Pandas.
+- Visualizing trends using Matplotlib.
+- Computing portfolio returns and risk metrics.
+- Evaluating performance using the Sharpe ratio.
 🚀 Features
 Alpha and Beta Analysis: Evaluate asset sensitivity to market changes and calculate excess return.
 Equal-Weight Portfolio Construction: Combine assets into a portfolio with equal weight distribution.

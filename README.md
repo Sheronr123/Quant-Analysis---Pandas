@@ -14,12 +14,12 @@ The steps include:
 - Visualizing trends using Matplotlib.
 - Computing portfolio returns and risk metrics.
 - Evaluating performance using the Sharpe ratio.
-🚀 Features
-Alpha and Beta Analysis: Evaluate asset sensitivity to market changes and calculate excess return.
-Equal-Weight Portfolio Construction: Combine assets into a portfolio with equal weight distribution.
-Performance Metrics: Sharpe ratio computation to assess risk-adjusted returns.
-Data Visualization: Trend analysis using time-series plots and histograms.
-🛠️ Tools Used
+## 🚀 Features
+- Alpha and Beta Analysis: Evaluate asset sensitivity to market changes and calculate excess return.
+- Equal-Weight Portfolio Construction: Combine assets into a portfolio with equal weight distribution.
+- Performance Metrics: Sharpe ratio computation to assess risk-adjusted returns.
+- Data Visualization: Trend analysis using time-series plots and histograms.
+## 🛠️ Tools Used
 Python Libraries:
 Pandas for data manipulation and analysis.
 Matplotlib for creating financial plots.

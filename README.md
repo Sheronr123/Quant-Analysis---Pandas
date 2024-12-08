@@ -7,7 +7,7 @@ This repository contains my capstone project for analyzing financial datasets us
 The project focuses on building an equal-weight portfolio of assets and evaluating its performance through statistical metrics like alpha and beta. The steps include:
 
 Importing and cleaning financial data.
-Performing time-series analysis with Pandas.
+--Performing time-series analysis with Pandas.
 Visualizing trends using Matplotlib.
 Computing portfolio returns and risk metrics.
 Evaluating performance using the Sharpe ratio.
